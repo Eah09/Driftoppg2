@@ -1,0 +1,32 @@
+  @import url("https://use.typekit.net/jtz2dkj.css");
+body{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+h1{
+  font-family: "itc-benguiat", serif;
+font-weight: 700;
+font-style: normal;
+display: flex;
+align-items: center;
+align-content: center;
+align-self: center;
+font-size: 38px;
+}
+
+p{
+    margin-top: 20vh ;
+    font-family: "itc-benguiat-condensed", sans-serif;
+font-weight: 400;
+font-style: italic;
+display: flex;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+justify-content: center;
+align-items: center;
+align-content: center;
+font-size: 24px;
+}
